@@ -10,7 +10,7 @@ import Parse
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
- var window: UIWindow?
+ //var window: UIWindow?
 
 
     // MARK: UISceneSession Lifecycle
